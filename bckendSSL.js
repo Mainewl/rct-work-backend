@@ -1,6 +1,6 @@
 const nodemailer = require('nodemailer');
 
-const STMP_CONFIG = require('./config/smtp') 
+const STMP_CONFIG = require('./config/smtpSSL') 
 
 
 
