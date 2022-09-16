@@ -1,0 +1,7 @@
+campos.nome -> returns a name
+campos.email -> returns a emai-l
+campos.mensagem -> returns a message 
+campos.anexo -> returns a archive file
+
+//method one import msg.js 
+//msg.js hav a variable MNSG who we can call using "nome" and this will give us "campos.nome", also "email" returning "campos.email", "msg" returning "campos.mensagem" and "file" returning "campos.anexo"
